@@ -114,7 +114,7 @@ gantt
     title Sehati AI Project Timeline
     dateFormat  YYYY-MM-DD
     section Planning
-    Requirements gathering :a1, 2026-03-24, 14d
+    Requirements gathering :a1, 2026-03-1, 14d
     System Design      :a2, after a1, 14d
     section Development
     Frontend Apps      :a3, after a2, 30d
