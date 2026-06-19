@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Dashboard",
+  "description": "A clinical information dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
